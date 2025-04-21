@@ -1,0 +1,16 @@
+@import "tailwindcss";
+*{
+  box-sizing: border-box;
+}
+body {
+  
+  min-height: 100vh;
+  background-color: #17181F;
+  color: white;
+}
+.green{
+  color: #1c1;
+}
+.red{
+  color: #c11;
+}

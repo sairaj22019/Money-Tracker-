@@ -1,0 +1,18 @@
+# Ignore backend node_modules and env
+Backend/node_modules/
+Backend/.env
+
+# Ignore frontend node_modules and env
+Frontend/node_modules/
+Frontend/.env
+Frontend/dist/
+
+# Ignore logs
+*.log
+npm-debug.log*
+
+# Ignore system and editor files
+.DS_Store
+.vscode/
+.idea/
+*.local
